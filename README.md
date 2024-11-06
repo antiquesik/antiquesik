@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @antiquesik
-- 👀 I’m interested in English language, mobile applications development, backend, data science, AI, math
+- 👀 I’m interested in English, mobile applications development, backend, data science, AI, math
 - 🌱 I’m currently learning data science for deeper understanding of computer`s operation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: tg channel t.me/heprifan
