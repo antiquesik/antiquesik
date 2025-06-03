@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @antiquesik
-- 👀 I’m interested in English, mobile applications development, backend, data science, AI, math
-- 🌱 I’m currently learning data science for deeper understanding of computer`s operation
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: tg @antiquesik, tg channel t.me/heprifan
+- 👀 I’m interested in math, mobile applications development, backend, computer science
+- 🌱 I’m currently learning computer science for deeper understanding of computer`s operation
+- 📫 How to reach me: tg @antiquesik
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
 
 <!---
 antiquesik/antiquesik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
